@@ -1,2 +1,3 @@
 I am second.txt
 This is my Git class.
+This is update for second file.
