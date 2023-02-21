@@ -1,0 +1,2 @@
+I am second.txt
+This is my Git class.
